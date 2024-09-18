@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394909169532",
+    "project_id": "farmerflutterapp",
+    "storage_bucket": "farmerflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394909169532:android:4bb8ebe149b142c34196f9",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "farmerflutterapp",
+          "appId": "1:394909169532:android:4bb8ebe149b142c34196f9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "farmerflutterapp",
+          "appId": "1:394909169532:ios:b74b2a016ba5243c4196f9",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "farmerflutterapp",
+          "configurations": {
+            "android": "1:394909169532:android:4bb8ebe149b142c34196f9",
+            "ios": "1:394909169532:ios:b74b2a016ba5243c4196f9"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
