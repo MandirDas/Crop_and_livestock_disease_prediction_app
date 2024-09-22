@@ -1,4 +1,4 @@
-# Disease Recognition Mobile App Documentation
+# Crop and Livestock Disease Prediction Mobile App Documentation
 # Table of Contents
 
 Introduction
@@ -10,7 +10,7 @@ Future Enhancements
 Conclusion
 
 # 1. Introduction
-The Disease Recognition Mobile App is an innovative solution designed for both iOS and Android platforms. It aims to help users identify diseases based on symptoms or images, providing potential causes and treatments using advanced machine learning and AI technologies.
+The Crop and Livestock Disease Recognition Mobile App is an innovative solution designed for both iOS and Android platforms. It aims to help users identify diseases based on symptoms or images, providing potential causes and treatments using advanced machine learning and AI technologies.
 # 2. Features
 
 Disease recognition through symptom input
